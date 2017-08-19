@@ -17,6 +17,10 @@ public class GameController : MonoBehaviour {
 		
 	}
 
+	void transferNode(Node content) {
+		
+	}
+
 	// Use this for initialization
 	void Start () {
 		model = new ModelController ();
