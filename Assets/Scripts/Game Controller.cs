@@ -13,7 +13,7 @@ public class GameController : MonoBehaviour {
 		return null;
 	}
 
-	void transferEvent(Event e) {
+	void transferAsyncEvent(Event e) {
 		
 	}
 

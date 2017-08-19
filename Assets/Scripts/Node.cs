@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SceneController : MonoBehaviour {
+public class Node : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

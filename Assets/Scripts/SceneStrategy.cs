@@ -2,15 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SceneStrategy : MonoBehaviour {
+public abstract class SceneStrategy {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	public SceneController controller;
+	public View view;
+
+
 }
